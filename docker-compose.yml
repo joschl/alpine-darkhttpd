@@ -2,7 +2,5 @@ version: "3.8"
 services:
   test-server:
     build: .
-    volumes:
-      - "./test/htdocs:/htdocs:ro"
     ports:
       - 8080:8080
