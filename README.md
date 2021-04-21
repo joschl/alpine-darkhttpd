@@ -1,2 +1,2 @@
 # alpine-darkhttpd
-static web server in &lt; 6MB
+static web server in &lt; 3MB
